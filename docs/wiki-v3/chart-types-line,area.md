@@ -108,7 +108,7 @@ var options = {
 };
 tui.chart.lineChart(container, rawData, options);
 ```
-![Spline Line Chart](https://cloud.githubusercontent.com/assets/2888775/13161387/aed38e1e-d6e0-11e5-84f4-fbead6c6445b.png)
+![Spline Line Chart](https://user-images.githubusercontent.com/35218826/36793813-b9b5a1c0-1ce1-11e8-920b-f73602077433.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example03-02-line-chart-spline.html)_
 
@@ -131,7 +131,8 @@ var options = {
 };
 tui.chart.areaChart(container, rawData, options);
 ```
-![Stacked Area Chart](https://cloud.githubusercontent.com/assets/2888775/13161453/1d87cb5e-d6e1-11e5-82cc-7f1ba612a7a7.png)
+![Stacked Area Chart](https://user-images.githubusercontent.com/35218826/36793845-dce7e31a-1ce1-11e8-9b25-d69c3c7717e5.png)
+
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example04-02-area-chart-normal-stack.html)_
 
@@ -155,7 +156,7 @@ var rawData = {
 tui.chart.areaChart(container, rawData);
 ```
 
-![Range area chart](https://cloud.githubusercontent.com/assets/2888775/14885919/0ea1c926-0d89-11e6-9a91-c7b4bc11b0fc.png)
+![Range area chart](https://user-images.githubusercontent.com/35218826/36793913-1ec6a2c6-1ce2-11e8-91f9-d95320563c3b.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example04-03-area-chart-range-data.html)_
 
@@ -208,7 +209,7 @@ var options = {
 tui.chart.areaChart(container, rawData, options);
 ```
 
-![zoomable](https://cloud.githubusercontent.com/assets/2888775/16506811/04a66cb6-3f60-11e6-985d-31b8c5f2ba30.gif)
+![zoomable](https://user-images.githubusercontent.com/35218826/36794307-55e872ba-1ce3-11e8-9ac0-600cd97c9aba.gif)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example04-04-area-chart-auto-tick-zoomable.html)_
 
@@ -271,6 +272,7 @@ chart.on('load', function() {
 ```
 
 ![dynamic data](https://cloud.githubusercontent.com/assets/2888775/16507586/d6664b36-3f65-11e6-8357-497936e794bc.gif)
+
 
 And if you use `shifting` option, your graph is will be moving to left.
 
