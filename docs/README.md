@@ -1,7 +1,8 @@
 ## Tutorials
 
 * [Getting Started](./wiki/getting-started.md)
-* [Discover more](./wiki/README.md)
+* [Discover more (^2.16.0)](./wiki/README.md)
+* [Discover more (>=2.0.0)](./wiki-v3/README.md)
 
 ## Documents
 
