@@ -107,7 +107,7 @@ chart.addPlotLine({
 });
 ```
 
-![image](https://github.nhnent.com/storage/user/429/files/86eb0430-6b6a-11e6-9295-0358be2f37a1)
+![image](https://user-images.githubusercontent.com/35218826/36886690-f0dc2a8e-1e30-11e8-810e-42933888f925.png)
 
 ### Merge overlapping areas in the same plotBand
 When the background color is transparent, the overlapping areas are sequentially displayed.(Yellow Band)  
