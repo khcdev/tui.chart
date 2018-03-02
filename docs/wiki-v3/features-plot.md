@@ -138,4 +138,4 @@ var options.plot = {
 };
 ```
 
-![image](https://github.nhnent.com/storage/user/429/files/86eb0430-6b6a-11e6-9295-0358be2f37a1)
+![image](https://user-images.githubusercontent.com/35218826/36886927-0cbe8c1e-1e32-11e8-9d04-bc7f9fd0e4bb.png)
