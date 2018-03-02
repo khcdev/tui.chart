@@ -10,4 +10,4 @@
 * [Contribution Guide](../CONTRIBUTING.md)
 * [Commit Message Convention](./COMMIT_MESSAGE_CONVENTION.md)
 * [API & Examples](https://nhnent.github.io/tui.chart/latest)
-* [v2.0.0 Migration Guide (Korean)] (v2.0.0-migration-guide-kor.md)
+* [v2.0.0 Migration Guide (Korean)](v2.0.0-migration-guide-kor.md)
