@@ -230,7 +230,7 @@ var options = {
 tui.chart.areaChart(container, rawData, options);
 ```
 
-![tickInterval=auto](https://cloud.githubusercontent.com/assets/2888775/16507456/d2e7fbb8-3f64-11e6-9390-82c3e81fa92e.png)
+![tickInterval=auto](https://user-images.githubusercontent.com/35218826/36879342-97e402aa-1e06-11e8-9aa6-2bd59347b8fa.png)
 
 ***
 
@@ -271,7 +271,7 @@ chart.on('load', function() {
 });
 ```
 
-![dynamic data](https://cloud.githubusercontent.com/assets/2888775/16507586/d6664b36-3f65-11e6-8357-497936e794bc.gif)
+![dynamic data](https://user-images.githubusercontent.com/35218826/36879815-e4b9d3d2-1e08-11e8-8eaf-728d9ca7d63b.gif)
 
 
 And if you use `shifting` option, your graph is will be moving to left.
@@ -314,7 +314,7 @@ chart.on('load', function() {
 });
 
 ```
-![shifting](https://cloud.githubusercontent.com/assets/2888775/16507706/df00a3d0-3f66-11e6-90e5-f5ead2ce0338.gif)
+![shifting](https://user-images.githubusercontent.com/35218826/36879927-65094f04-1e09-11e8-8dfb-0c50b64e743a.gif)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example12-01-dynamic-chart-append-and-shift-data-dynamically.html)_
 
@@ -332,4 +332,4 @@ var options = {
     }
 };
 ```
-![areaOpacity-v2.10.0](https://user-images.githubusercontent.com/13758710/31540788-8cc90e56-b047-11e7-96fa-2d30173f8fe1.gif)
+![areaOpacity-v2.10.0](https://user-images.githubusercontent.com/35218826/36881637-75fff1d8-1e12-11e8-8ff2-a140093b8a9c.gif)
