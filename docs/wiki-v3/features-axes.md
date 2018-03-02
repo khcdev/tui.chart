@@ -166,9 +166,11 @@ a. before using format option
 ![image](https://user-images.githubusercontent.com/35218826/36885888-06a6bc52-1e2d-11e8-8949-c036c3b377f9.png)
 
 b. `dateFormat='MMM'`
+
 ![image](https://user-images.githubusercontent.com/35218826/36885998-7851aa2e-1e2d-11e8-8264-77ceca32dcbb.png)
 
 c. `dateFormat='YYYY.MM`
+
 ![image](https://user-images.githubusercontent.com/35218826/36886041-a3783d44-1e2d-11e8-9995-91ad8097dcdb.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example03-01-line-chart-basic.html)_
