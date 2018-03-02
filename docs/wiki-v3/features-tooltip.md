@@ -64,7 +64,7 @@ var options = {
 tui.chart.lineChart(container, data, options);
 ```
 
-![Group Tooltip](https://cloud.githubusercontent.com/assets/2888775/12045583/bf466e48-aee9-11e5-9c76-00c3a2a6d687.png)
+![Group Tooltip](https://user-images.githubusercontent.com/35218826/36886301-0d477126-1e2f-11e8-96f5-290966a22530.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example04-02-area-chart-normal-stack.html)_
 
