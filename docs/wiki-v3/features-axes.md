@@ -128,7 +128,7 @@ var options = {
 tui.chart.columnChart(container, data, options);
 ```
 
-![rotateLabel option](https://cloud.githubusercontent.com/assets/2888775/15560313/649adae6-2325-11e6-89d9-fcae657277b2.png)
+![rotateLabel option](https://user-images.githubusercontent.com/35218826/36885740-1e2a9c0a-1e2c-11e8-9546-d10281d4895d.png)
 
 ***
 
