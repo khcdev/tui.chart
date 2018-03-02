@@ -68,7 +68,7 @@ var options = {
 };
 ```
 
-![image](https://github.nhnent.com/storage/user/429/files/50e96390-6b6a-11e6-8499-019975f8ada3)
+![image](https://user-images.githubusercontent.com/35218826/36886584-8a6df2e6-1e30-11e8-9028-0084bebb7a72.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example03-03-line-chart-coordinate-data.html)_
 
