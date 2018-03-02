@@ -163,13 +163,13 @@ var options = {
 |meridiem(AM,PM)|A / a|
 
 a. before using format option
-![image](https://github.nhnent.com/storage/user/429/files/b23a5250-6b68-11e6-9e9f-0a24fe7eb99a)
+![image](https://user-images.githubusercontent.com/35218826/36885888-06a6bc52-1e2d-11e8-8949-c036c3b377f9.png)
 
 b. `dateFormat='MMM'`
-![image](https://github.nhnent.com/storage/user/429/files/ce25b20c-6b68-11e6-8b5f-2074654e11fd)
+![image](https://user-images.githubusercontent.com/35218826/36885998-7851aa2e-1e2d-11e8-8264-77ceca32dcbb.png)
 
 c. `dateFormat='YYYY.MM`
-![image](https://github.nhnent.com/storage/user/429/files/038af6be-6b96-11e6-83d2-c85ce94f2177)
+![image](https://user-images.githubusercontent.com/35218826/36886041-a3783d44-1e2d-11e8-9995-91ad8097dcdb.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example03-01-line-chart-basic.html)_
 ***
