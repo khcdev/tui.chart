@@ -97,7 +97,7 @@ var options = {
 //...
 tui.chart.comboChart(container, rawData, options);
 ```
-![Combo Chart](https://user-images.githubusercontent.com/35218826/36882468-7288df56-1e17-11e8-8ea1-cf66f7657884.png)
+![Combo Chart](https://user-images.githubusercontent.com/35218826/36882552-dd4f7f98-1e17-11e8-88f8-5a8e6519c1c0.png)
 
 * _[Sample](https://nhnent.github.io/tui.chart/latest/tutorial-example08-01-combo-chart-column-and-line.html)_
 
