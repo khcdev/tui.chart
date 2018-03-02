@@ -132,26 +132,6 @@ tui.chart.columnChart(container, data, options);
 
 ***
 
-### How to not rotated title of y axis?
-
-Title of y axis is rotated, when rendering.<br>
-If you do not want rotating title of y axis, you can use `yAxis.rotateTitle` option.
-
-##### Example
-
-``` javascript
-//...
-var options = {
-    yAxis: {
-        rotateTitle: false
-    }
-};
-tui.chart.columnChart(container, data, options);
-```
-
-![rotateTitle option](https://cloud.githubusercontent.com/assets/2888775/15560163/ea8343d4-2323-11e6-9f30-1611bd50686a.png)
-
-***
 
 ### How to formatting label to date format
 If you want formatting label to date format, you can use `type='datetime'` and `dateFormat` options.
