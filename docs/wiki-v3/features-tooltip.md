@@ -24,7 +24,6 @@ tui.chart.barChart(container, data, options);
 ### Tooltip positioning
 
 Using `tooltip.offsetX`, `tooltip.offsetY` option, you can moving a tooltip to four direction like top, bottom, left and right.
-Deprecated `tooltip.position` option.
 
 ##### Example
 
@@ -35,12 +34,6 @@ var options = {
         // Recommended
         offsetX: 10,
         offsetY: -10
-
-        // Deprecated
-        position: {
-            left: 10,
-            top: -10
-        }
     }
 };
 tui.chart.barChart(container, data, options);
@@ -153,26 +146,15 @@ var chart = tui.chart.barChart(data);
 
 chart.on('beforeShowTooltip', function(info) {
     if (info.legendIndex === 0) {
-        // Recommended
         chart.setTooltipOffset({
             x: 20,
             y: -10
-        });
-
-        // Deprecated
-        chart.setTooltipPosition({
-            left: 20,
-            top: -10
         });
     }
 });
 
 chart.on('afterShowTooltip', function(info) {
-    // Recommended
     chart.resetTooltipOffset();
-
-    // Deprecated
-    chart.resetTooltipPosition();
 });
 
 ```
