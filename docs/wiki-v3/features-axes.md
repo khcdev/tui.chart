@@ -163,6 +163,7 @@ var options = {
 |meridiem(AM,PM)|A / a|
 
 a. before using format option
+
 ![image](https://user-images.githubusercontent.com/35218826/36885888-06a6bc52-1e2d-11e8-8949-c036c3b377f9.png)
 
 b. `dateFormat='MMM'`
